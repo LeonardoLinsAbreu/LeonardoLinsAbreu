@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 Estudante de Ciência de Dados & Desenvolvedor em Construção 🚀</h3>
+  <h3>👨‍💻 Estudante de Ciência de Dados & Machine Learning 🚀</h3>
 </div>
 
 <br>
