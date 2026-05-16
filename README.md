@@ -1,7 +1,4 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c8ff&height=200&section=header&text=Ol%C3%A1!%20Sou%20Leonardo%20Lins&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
 
 <div align="center">
   <h3>👨‍💻 Estudante de Ciência de Dados & Machine Learning 🚀</h3>
@@ -57,6 +54,3 @@ Olá! Sou o **Leonardo Lins**, atualmente mergulhando fundo no mundo da **Ciênc
 <br>
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c8ff&height=100&section=footer" />
-</div>
