@@ -33,13 +33,7 @@ Olá! Sou o **Leonardo Lins**, atualmente mergulhando fundo no mundo da **Ciênc
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,html,css,vscode,git,github" alt="My Skills" />
-  </a>
-</div>
-
-<br>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 💡 Citação Dev Inspiradora
 
