@@ -41,20 +41,6 @@ Olá! Sou o **Leonardo Lins**, atualmente mergulhando fundo no mundo da **Ciênc
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/LeonardoLinsAbreu">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLinsAbreu&show_icons=true&theme=omni&hide_border=true&bg_color=1f222e" alt="Leonardo's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/LeonardoLinsAbreu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoLinsAbreu&theme=omni&hide_border=true&background=1f222e" alt="Leonardo's GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
 ## 💡 Citação Dev Inspiradora
 
 <div align="center">
